@@ -1,0 +1,9 @@
+{
+"dataURL": "https://cdn.jsdelivr.net/gh/SethMortenson/hole-io@master/5e9447c446b98354d569668d61dbddea.data.unityweb",
+"frameworkURL": "https://cdn.jsdelivr.net/gh/SethMortenson/hole-io@master/0c17402b7134f4e5808274c76ec37ac4.js.unityweb",
+"codeURL": "https://cdn.jsdelivr.net/gh/SethMortenson/hole-io@master/a20adf82087b477d2b2edd3b78035969.wasm.unityweb",
+"symbolsURL": "https://cdn.jsdelivr.net/gh/SethMortenson/hole-io@master/cb995fe0281b6af8c6ca8ad55cb1e897.json.unityweb",
+"companyName": "DRA.RU",
+"productName": "HOLE.io",
+"productVersion": "3.0"
+}
